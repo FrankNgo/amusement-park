@@ -3,5 +3,15 @@
 }*/
 
 .highlight {
-  background-color:yellow;
+  background-color: #F5B7B1;
+}
+
+.jumbotron{
+
+  text-align: center;
+}
+
+body{
+
+background-color: #78281F;
 }
